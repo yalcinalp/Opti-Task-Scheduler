@@ -1,0 +1,8 @@
+venv/
+Server/pycache
+Server/__pycache__
+# Server/gmailAPI/__pycache__
+Server/gmailAPI/credentials.json
+.vscode
+Server/gmailAPI/token.jsons
+Server/gmailAPI/__pycache__/mailAPI.cpython-310.pyc
