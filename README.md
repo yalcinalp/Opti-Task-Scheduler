@@ -1,5 +1,5 @@
 # Opti-Task-Scheduler
-This repo is the final project which managed to get 1st place in the Goldman Sachs Warsaw 24-Hour Hackathon. 
+This repo is the final project which managed to get 1st place in the Goldman Sachs Warsaw 24-Hour Hackathon.  
 Our teams Algorithmic Acrobats, consists of:  <br>
     Alp Eren Yalçın - [yalcinalp](https://github.com/yalcinalp)  
     Doğancem Duran - [dogancemd](https://github.com/dogancemd)  
