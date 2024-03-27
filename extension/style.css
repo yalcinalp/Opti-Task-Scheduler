@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#email-input-section {
+    margin-bottom: 20px;
+}
+
+#inbox {
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-width: 600px;
+}
+
+#emailList {
+    margin-top: 10px;
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.rating {
+    cursor: pointer;
+    color: #ccc;
+}
+
+.rating .star {
+    font-size: 30px;
+    margin-right: 5px;
+}
+
+.rating .selected {
+    color: gold;
+}
+
+button {
+    margin-top: 10px;
+}

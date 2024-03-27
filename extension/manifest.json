@@ -1,0 +1,18 @@
+{
+    "name": "Calendarly",
+    "version": "1.0.0",
+    "description": "current working project",
+    "manifest_version": 3,
+    "author": "Algorithmic Acrobats",
+    "action":{
+        "default_popup": "calendarly.html",
+        "default_title": "Calendarly"
+    },
+    "content_scripts": [
+        {
+          "matches": ["<all_urls>"],
+          "js": ["page_buttons.js","calendarly.js","mailly.js","message.js","form.js"],
+          "all_frames":true
+        }
+        ]
+}

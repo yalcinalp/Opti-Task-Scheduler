@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Well-being Survey</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div style="width: 400px;">
+        <table>
+            <tr >
+                <button id="button1" style="width: 33%;">Page 1</button>
+                <button id="button2" style="width: 33%;">Page 2</button>
+                <button id="button3" style="width: 33%;">Page 3</button>
+            </tr>
+        </table>
+        <!-- Add more buttons if needed -->
+    </div>
+    <div id="survey">
+        <!-- Question 1 -->
+        <div class="question" id="question1">
+            <p>How do you feel today?</p>
+            <div class="rating" data-question="1">
+                <!-- Star ratings for Question 1 -->
+                <span class="star" data-value="1">&#9733;</span>
+                <span class="star" data-value="2">&#9733;</span>
+                <span class="star" data-value="3">&#9733;</span>
+                <span class="star" data-value="4">&#9733;</span>
+                <span class="star" data-value="5">&#9733;</span>
+            </div>
+            <button id="btn10">Next</button>
+        </div>
+
+        <!-- Question 2 -->
+        <div class="question" id="question2" style="display:none;">
+            <p>How satisfied are you with your work-life balance?</p>
+            <div class="rating" data-question="2">
+                <!-- Star ratings for Question 2 -->
+                <span class="star" data-value="1">&#9733;</span>
+                <span class="star" data-value="2">&#9733;</span>
+                <span class="star" data-value="3">&#9733;</span>
+                <span class="star" data-value="4">&#9733;</span>
+                <span class="star" data-value="5">&#9733;</span>
+            </div>
+            <button id="btn11">Next</button>
+        </div>
+
+        <!-- Question 3 -->
+        <div class="question" id="question3" style="display:none;">
+            <p>How supported do you feel at work?</p>
+            <div class="rating" data-question="3">
+                <!-- Star ratings for Question 3 -->
+                <span class="star" data-value="1">&#9733;</span>
+                <span class="star" data-value="2">&#9733;</span>
+                <span class="star" data-value="3">&#9733;</span>
+                <span class="star" data-value="4">&#9733;</span>
+                <span class="star" data-value="5">&#9733;</span>
+            </div>
+            <button id="btn12">Submit</button>
+        </div>
+    </div>
+
+    <script src="form.js"></script>
+    <script src="page_buttons.js"></script>
+</body>
+</html>
