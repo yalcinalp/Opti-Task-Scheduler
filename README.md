@@ -7,9 +7,9 @@ Our teams consists of:
     Yusufhan Ali Üstün - [yusufhanali](https://github.com/yusufhanali)
 
 This web extension is connected to your Jira, Google Calendar and Gmail accounts. It has three main functionality:
-&nbsp;&nbsp;&nbsp;&nbsp;-To fetch tasks from Jira, sort them according to their dependency and priority, then create events and add them to your Google Calendar.
-&nbsp;&nbsp;&nbsp;&nbsp;-To display mails from preadded accounts in the extension.
-&nbsp;&nbsp;&nbsp;&nbsp;-To give you a chance to rate your daily productivity and work-life balance.
+-To fetch tasks from Jira, sort them according to their dependency and priority, then create events and add them to your Google Calendar.
+-To display mails from preadded accounts in the extension.
+-To give you a chance to rate your daily productivity and work-life balance.
 
 
 
