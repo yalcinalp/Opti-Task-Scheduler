@@ -10,13 +10,13 @@ Our team, Algorithmic Acrobats, consists of:
 
 - Yusufhan Ali Üstün - [yusufhanali](https://github.com/yusufhanali)  
 
-This web extension is connected to your Jira, Google Calendar and Gmail accounts. It has three main functionality:  
+This web extension is connected to your `Jira`, `Google Calendar` and `Gmail` accounts. It has three main functionality:  
 
--To fetch tasks from Jira, sort them according to their dependency and priority, then create events and add them to your Google Calendar.  
+- To fetch tasks from Jira, sort them according to their dependency and priority, then create events and add them to your Google Calendar.  
 
--To display mails from preadded accounts in the extension.  
+- To display mails from preadded accounts in the extension.  
 
--To give you a chance to rate your daily productivity and work-life balance.  
+- To give you a chance to rate your daily productivity and work-life balance.  
 
 To run the project:
 1. Get Google Gmail and Calendar API JSON
